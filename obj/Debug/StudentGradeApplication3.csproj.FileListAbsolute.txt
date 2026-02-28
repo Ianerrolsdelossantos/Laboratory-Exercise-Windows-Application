@@ -1,0 +1,10 @@
+C:\Users\delossantos.416644\source\repos\StudentGradeApplication3\StudentGradeApplication3\obj\Debug\StudentGradeApplication3.csproj.AssemblyReference.cache
+C:\Users\delossantos.416644\source\repos\StudentGradeApplication3\StudentGradeApplication3\obj\Debug\StudentGradeApplication3.Form1.resources
+C:\Users\delossantos.416644\source\repos\StudentGradeApplication3\StudentGradeApplication3\obj\Debug\StudentGradeApplication3.Properties.Resources.resources
+C:\Users\delossantos.416644\source\repos\StudentGradeApplication3\StudentGradeApplication3\obj\Debug\StudentGradeApplication3.csproj.GenerateResource.cache
+C:\Users\delossantos.416644\source\repos\StudentGradeApplication3\StudentGradeApplication3\obj\Debug\StudentGradeApplication3.csproj.CoreCompileInputs.cache
+C:\Users\delossantos.416644\source\repos\StudentGradeApplication3\StudentGradeApplication3\bin\Debug\StudentGradeApplication3.exe.config
+C:\Users\delossantos.416644\source\repos\StudentGradeApplication3\StudentGradeApplication3\bin\Debug\StudentGradeApplication3.exe
+C:\Users\delossantos.416644\source\repos\StudentGradeApplication3\StudentGradeApplication3\bin\Debug\StudentGradeApplication3.pdb
+C:\Users\delossantos.416644\source\repos\StudentGradeApplication3\StudentGradeApplication3\obj\Debug\StudentGradeApplication3.exe
+C:\Users\delossantos.416644\source\repos\StudentGradeApplication3\StudentGradeApplication3\obj\Debug\StudentGradeApplication3.pdb
